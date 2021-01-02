@@ -13,8 +13,9 @@ Update: I started trying to do this at 12:30am on the next day...how naive I was
 
 Consequently, here are the solutions I found to Leetcode 136 (Find the Single Number). These two languages feel very different to me! 
 
-C++:
-`int singleNumber(vector<int>& nums) {
+C++:  
+```
+int singleNumber(vector<int>& nums) {  
     unordered_map<int,int> times;
 
     for(auto num : nums) times[num]++;
@@ -25,10 +26,12 @@ C++:
     }
 
     return 0;
-}`
-
-Ruby: 
-`def single_number(nums)
+}
+```
+  
+Ruby:   
+```
+def single_number(nums)
     nums.sort!
     i = 0
     
@@ -40,4 +43,5 @@ Ruby:
         i += 2
     end
     return nums[-1]
-end`
+end
+```
