@@ -1,4 +1,4 @@
-# Day 1 - Leetcode in 2 New Flavors!
+# Day 1 - Leetcode in 2 New Flavors! :ice_cream:
 
 This year, I expect to be working with 2 languages that are completely new to me at the moment!
 These two languages are: C++ and Ruby
