@@ -9,7 +9,7 @@ These two languages are: C++ and Ruby
 
 Just to start learning these two, I'm doing leetcode questions in each language respectively as a way to learn!
 
-Update: I started trying to do this at 12:30am on the next day...how naive I was to think it'd be easy to figure out even an easy Leetcode problem!
+**Update:** I started trying to do this at 12:30am on the next day...how naive I was to think it'd be easy to figure out even an easy Leetcode problem!
 
 Consequently, here are the solutions I found to Leetcode 136 (Find the Single Number). These two languages feel very different to me! 
 
