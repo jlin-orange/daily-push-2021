@@ -1,0 +1,7 @@
+# Day 3! 
+
+Once again, I waited until the last second to actually do my push of the day, so I only had enough time to do an ez leetcode b4 midnight struck! 
+I just implemented a little solution to...[Leetcode 561](https://leetcode.com/problems/majority-element/) - Majority Element
+
+I did it in Java again just 'cuz that's still my most comfortable language at the moment!
+I used the Boyer-Moore algorithm which I totally didn't understand at all in the past when approaching this problem in the past, but I'm finally comfortable enough to implement it myself! Hooray
