@@ -1,0 +1,20 @@
+Metadata-Version: 2.1
+Name: SendSafely-Python-API
+Version: 1.0.0
+Summary: The SendSafely Client API allows programmatic access to SendSafely and provides a layer of abstraction from our REST API, which requires developers to perform several complex tasks in a correct manner.
+Home-page: https://developer.sendsafely.com/
+Author: SendSafely
+Author-email: support@sendsafely.com
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Software Development :: Build Tools
+Classifier: Programming Language :: Python :: 3
+Requires-Python: >=3
+Requires-Dist: requests
+Requires-Dist: PGPy
+
+file: README.md
+
+
